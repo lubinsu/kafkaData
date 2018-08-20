@@ -1,0 +1,15 @@
+{
+  "table_name": "my_streaming_log",
+  "table_status": "insert",
+  "data": [
+    {
+      "topic_name": "hy_membersms",
+      "offsets": "[{\"untilOffset\" : 880830, \"fromOffset\" : 880830, \"partition\" : 2}, {\"untilOffset\" : 882001, \"fromOffset\" : 882000, \"partition\" : 1}, {\"untilOffset\" : 6266645, \"fromOffset\" : 6266644, \"partition\" : 0}]",
+      "sUserId": "5d8c113d1ff14be6b8cb82c680e2271d",
+      "startTime": "2017-11-02 15:23:52.6",
+      "endTime": "2017-11-02 15:23:53.9",
+      "status": "SUCCESS",
+      "error_message": "处理成功"
+    }
+  ]
+}
