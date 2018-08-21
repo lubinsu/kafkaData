@@ -1,3 +1,3 @@
-Kafka topicÏû·Ñ¶ËÓëÉú²ú¶Ë
-	producerÏîÄ¿Ìá¹©¸øÍâ²¿Ê¹ÓÃ£¬Í¨¹ıÅäÖÃbigdata.properties·¢ËÍµ½²»Í¬µÄ¼¯Èº£¬Ä¿Ç°Ö÷Òª¼¼ÊõÖĞĞÄÊ¹ÓÃ
-	consumerÏîÄ¿Ö÷ÒªÔÚ²¿ÃÅÄÚ²¿kafkaÏû·ÑÈë¿âÓÃ£¬ÅäÖÃ·½Ê½¿ÉÒÔ²Î¿¼kafka.tables
+Kafka topicæ¶ˆè´¹ç«¯ä¸ç”Ÿäº§ç«¯
+	produceré¡¹ç›®æä¾›ç»™å¤–éƒ¨ä½¿ç”¨ï¼Œé€šè¿‡é…ç½®bigdata.propertieså‘é€åˆ°ä¸åŒçš„é›†ç¾¤
+	consumer kafkaæ¶ˆè´¹å…¥åº“ç”¨ï¼Œé…ç½®æ–¹å¼å¯ä»¥å‚è€ƒkafka.tables
